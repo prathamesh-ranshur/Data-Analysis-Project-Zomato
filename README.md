@@ -58,7 +58,8 @@ Data was cleaned, transformed, and modeled in **Power BI** using:
 
 ## 🔗 Live Dashboard
 
-🖥️ [**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZDY1ZDc3YzctZmE5MC00ZGUyLTkzY2ItNjk1MDIyNWEzMTQ1IiwidCI6IjQxOGRkOGU3LTgwYzAtNGQwOC1iOTg5LTI4ZTVhODU4YzY4ZiJ9)
+🖥️ [**View Dashboard**]([https://app.powerbi.com/view?r=eyJrIjoiZDY1ZDc3YzctZmE5MC00ZGUyLTkzY2ItNjk1MDIyNWEzMTQ1IiwidCI6IjQxOGRkOGU3LTgwYzAtNGQwOC1iOTg5LTI4ZTVhODU4YzY4ZiJ9](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTcxZjA0YTEtZTlkNi00NzgzLTgyNzMtOGVkZWFiYzY2MTFhIiwidCI6IjQxOGRkOGU3LTgwYzAtNGQwOC1iOTg5LTI4ZTVhODU4YzY4ZiJ9&pageName=f8edbf17b6654ffc54e6)
+)
 
 ---
 
